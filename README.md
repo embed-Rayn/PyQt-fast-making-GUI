@@ -28,7 +28,7 @@
 | 10 | 메모장 만들기, 나의 프로그램 만들기, exe 만들기(1) |
 | 11 | 메모장 만들기, 나의 프로그램 만들기, exe 만들기(2) |
 
-## Reffernce
+## Reference
 | Source | Description |
 |:---:|---|
 | [초보자를 위한 Python GUI 프로그래밍 - PyQt5](https://wikidocs.net/book/2944) | 주 교재로 사용하는 wikidocs 입니다. |
