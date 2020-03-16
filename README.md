@@ -30,8 +30,8 @@
 ### [css in widget](https://github.com/sommerc/pyqt-stylesheets)
 1. PyQt5위젯에 css 적용하기 위해 위의 주소에 들어가 코드를 다운로드 받습니다.
 2. 압축을 푼 폴더에 접근하여 아래의 명령어를 입력해 줍니다. (Python version3을 사용할 경우 아래 파일의 print 함수에 소괄호를 추가해 줍니다.)
-	- pyqt-stylesheets-master/setup.py
-	- pyqt-stylesheets-master/pyqtcss/__init__.py
+	- `pyqt-stylesheets-master/setup.py`
+	- `pyqt-stylesheets-master/pyqtcss/__init__.py`
 ```bash
 python setup.py build
 python setup.py install
