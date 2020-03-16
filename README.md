@@ -8,7 +8,6 @@
 	- 배포하고 싶었던 나만의 프로그램을 사용자가 사용하기 편한 GUI로 만듭니다.
 - 메모장 만들기
 	- 위 어플리케이션에서 다루지 못한 기능을 보충하여 연습하기 위해 실습합니다.
-
 ## Index
 
 ### [wikidocs](./wikidocs_code)
@@ -27,6 +26,18 @@
 | 9 | item widgets: 리스트 위젯, 테이블 위젯, 컨테이너 |
 | 10 | 메모장 만들기, 나의 프로그램 만들기, exe 만들기(1) |
 | 11 | 메모장 만들기, 나의 프로그램 만들기, exe 만들기(2) |
+
+### [css in widget](https://github.com/sommerc/pyqt-stylesheets)
+1. PyQt5위젯에 css 적용하기 위해 위의 주소에 들어가 코드를 다운로드 받습니다.
+2. 압축을 푼 폴더에 접근하여 아래의 명령어를 입력해 줍니다. (Python version3을 사용할 경우 아래 파일의 print 함수에 소괄호를 추가해 줍니다.)
+	- pyqt-stylesheets-master/setup.py
+	- pyqt-stylesheets-master/pyqtcss/__init__.py
+```bash
+python setup.py build
+python setup.py install
+```
+3. __pyqtcss.py가 있는 곳에서__ PyQt 프로그래밍을 합니다.
+	- [예제](https://github.com/embed-Rayn/PyQt-fast-making-GUI/blob/master/qtcss/qtcss_example.ipynb)
 
 ## Reference
 | Source | Description |
