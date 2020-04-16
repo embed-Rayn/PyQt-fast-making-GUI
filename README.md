@@ -11,8 +11,9 @@
 ## Index
 
 ### [wikidocs](./wikidocs_code)
-[초보자를 위한 Python GUI 프로그래밍 - PyQt5](https://wikidocs.net/book/2944)책에 나오는 예제 코드입니다.
-
+[초보자를 위한 Python GUI 프로그래밍 - PyQt5](https://wikidocs.net/book/2944)책에 나오는 예제 코드와
+<br>
+[PyQt5 Tutorial - 파이썬으로 만드는 나만의 GUI 프로그램](https://wikidocs.net/book/2165)책에 나오는 QMainWindow와 그리드를 designer 툴로 실습합니다.
 | Number | Description |
 |:---:|---|
 | 1 | OT: UI 설계도, Qt 개요, Qt 툴 설명, Qt 프로그램 예제 |
