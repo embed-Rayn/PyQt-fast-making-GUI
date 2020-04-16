@@ -24,8 +24,11 @@
 | 7 | display: 캘린더 위젯, 픽스맵, 사이즈 |
 | 8 | display: 웹엔진뷰, 프로그래스바, 타이머 |
 | 9 | item widgets: 리스트 위젯, 테이블 위젯, 컨테이너 |
-| 10 | 메모장 만들기, 나의 프로그램 만들기, exe 만들기(1) |
-| 11 | 메모장 만들기, 나의 프로그램 만들기, exe 만들기(2) |
+| 10 | Main window: main window 생성, 메뉴바 생성 |
+| 11 | Main window: 툴바, 위치 조정, 스타일 적용 |
+| 12 | Main window: 레이아웃 |
+| 13 | 메모장 만들기, 나의 프로그램 만들기, exe 만들기(1) |
+| 14 | 메모장 만들기, 나의 프로그램 만들기, exe 만들기(2) |
 
 ### [css in widget](https://github.com/sommerc/pyqt-stylesheets)
 1. PyQt5위젯에 css 적용하기 위해 위의 주소에 들어가 코드를 다운로드 받습니다.
